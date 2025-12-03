@@ -9,7 +9,7 @@ public class Class1Test {
 	public void class1() {
 		
 		Reporter.log("------------------Hi I'm Moulya H K--------------------------", true);
-		
+		Reporter.log("------------------Hi I'm Moulya H K--------------------------", true);
 	}
 
 }
