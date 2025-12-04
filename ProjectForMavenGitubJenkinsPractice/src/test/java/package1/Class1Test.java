@@ -10,6 +10,7 @@ public class Class1Test {
 		
 		Reporter.log("------------------Hi I'm Moulya H K--------------------------", true);
 		Reporter.log("------------------Hi I'm Moulya H K--------------------------", true);
+		Reporter.log("------------------Ok Bye Moulya H K--------------------------", true);
 	}
 
 }
